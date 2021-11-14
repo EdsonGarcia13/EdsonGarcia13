@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EdsonGarcia13
 - 👀 I’m interested in ciencia de datos
 - 🌱 I’m currently learning programación
-- 💞️ I’m looking to collaborate on Henry 
+- 💞️ I’m looking to collaborate on starup global
 
 
 <!---
