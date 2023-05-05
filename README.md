@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EdsonGarcia13
 - 👀 I’m interested in IA
-- 🌱 I’m currently learning on Full Stack Developer
+- 🌱 I’m currently Working like Full Stack Developer
 - 💞️ I’m looking to collaborate on starup global
 
 
